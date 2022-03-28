@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//good520.us/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://good520.us/post-sitemap.xml</loc>
+		<lastmod>2022-03-28T22:18:01+08:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://good520.us/page-sitemap.xml</loc>
+		<lastmod>2022-03-28T22:33:26+08:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://good520.us/tdb_templates-sitemap.xml</loc>
+		<lastmod>2022-03-28T21:44:12+08:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://good520.us/category-sitemap.xml</loc>
+		<lastmod>2022-03-28T22:18:01+08:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://good520.us/post_tag-sitemap.xml</loc>
+		<lastmod>2022-03-28T22:18:01+08:00</lastmod>
+	</sitemap>
+</sitemapindex>
